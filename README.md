@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 Some random deployment text
+
+### Copyright
+
+2021 Git.Training
