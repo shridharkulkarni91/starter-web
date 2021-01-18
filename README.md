@@ -21,4 +21,4 @@ Some random deployment text
 
 ### Copyright
 
-2021 Git.Training
+2021 Git.Training. Added new rights.
