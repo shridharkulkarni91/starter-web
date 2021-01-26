@@ -1,10 +1,17 @@
 <!DOCTYPE html>
 <!--
 	Copyright 2021 Git.Training
+<<<<<<< HEAD
+	Randome addition to copyright
+-->
+<head>
+	<title>Master Branch Title Change</title>
+=======
 	Shridhar Kulkarni changes
 -->
 <head>
-	<title>Updated the content stash branch Title</title>
+	<title>Silly Changes</title>
+>>>>>>> 11547fb (Changes to simple.html)
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -18,11 +25,15 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			Adding more important content
+<<<<<<< HEAD
+			A lot of useless text added
+=======
+			A lot of trouble
+>>>>>>> 11547fb (Changes to simple.html)
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; GIt Training 2014. All rights reserved</p>
+		<p>&copy; GIt Training 2014</p>
 	</footer>
 </body>
 </html>
